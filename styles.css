@@ -3,10 +3,13 @@ body
        background: lightblue;
 }
 ul
-{
+{ 
+  color: black;
+  background: rgb(230, 230, 230);
   font-family: sans-serif;
   font-weight:bold;
   font-size:1.5em;
+  border: 2px solid black;
   padding: 5px;
 }
 h1
