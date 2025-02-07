@@ -1,25 +1,46 @@
 h1
 {
   color: lightblue;
+  background: rgb(230, 230, 230);
+  font-family: sans-serif;
+  border: 2px solid black;
+  padding: 5px;
 }
 
 h2
 {
   color: lightblue;
+  background: rgb(230, 230, 230);
+  font-family: sans-serif;
+  border: 2px solid black;
+  padding: 5px;
 }
 
 h3
 {
   color: lightblue;
+  background: rgb(230, 230, 230);
+  font-family: sans-serif;
+  border: 2px solid black;
+  padding: 5px;
 }
 
 h4
 {
   color: lightblue;
+  background: rgb(230, 230, 230);
+  font-family: sans-serif;
+  border: 2px solid black;
+  padding: 5px;
 }
 
         
  #official-info 
 {
-   background: rgb(230, 230, 230); 
+   background: rgb(230, 230, 230);
+   width: 70%;
+   height: 180px;
+   overflow-y: auto;
+   overflow-x: hidden;
+   padding: 5px;
 }
