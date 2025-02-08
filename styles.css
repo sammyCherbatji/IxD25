@@ -13,11 +13,11 @@ body
 .info 
 {
     width: 80%;
-    padding: 20px;
-    margin: 0 auto;
+    padding: 30px;
+    margin: 40px auto;
     background-color: white;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    border-radius: 10px;
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.1);
+    border-radius: 12px;
 }
 
 
@@ -27,6 +27,7 @@ h1
     color: black;
     text-align: center;
     margin-bottom: 20px;
+    font-weight: bold;
 }
 
 h2, h3, h4 
@@ -52,15 +53,16 @@ ul li
     margin: 10px 0;
     margin-bottom: 10px;
     font-size: 18px;
+    list-style-type: square;
 }
 
 
 .pic {
     display: block;
     border-radius: 10px;
-    width: 400px;
+    width: 600px;
     border:6px ridge black;
-    margin:20px;
+    margin: 20px auto;
 }
 
 
@@ -68,6 +70,8 @@ ul li
 p {
     color: black;
     margin-bottom: 20px;
+    font-size: 16px; 
+    line-height: 1.6;
 }
 
 
