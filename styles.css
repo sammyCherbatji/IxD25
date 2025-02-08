@@ -46,8 +46,10 @@ ul li {
 
 .pic {
     display: block;
-    margin: 20px auto;
     border-radius: 10px;
+     width: 200px;
+    border:6px ridge black;
+    margin:20px;
 }
 
 
