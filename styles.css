@@ -4,14 +4,17 @@ body {
     line-height: 1.6;
     background-color: lightblue;
     color: lightgrey;
+    margin: 0;
+    padding: 0;
 }
 
 
 .info {
     width: 80%;
     padding: 20px;
+    margin: 0 auto;
     background-color: white;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     border-radius: 10px;
 }
 
@@ -31,6 +34,7 @@ h2, h3, h4 {
 
 
 ul {
+  
      color: black;
 
 }
